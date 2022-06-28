@@ -1,0 +1,46 @@
+.imagem-teste
+{
+  background-image: url("img/estadios.png");
+  height:683px;
+  width: 1000px; 
+  position: relative;
+  margin: 0 auto;
+ }
+
+.redesAl {
+ background-image:url("img/alrayyan.png");
+ background-repeat: no-repeat;
+}
+
+.redesAl2 {
+  background-image:url("img/rasabu.png");
+  background-repeat: no-repeat;
+ }
+
+ .bt_pagamento-facilitado, .bt_pagamento-facilitado2, .bt_pagamento-facilitado3, .bt_pagamento-facilitado4, .bt_pagamento-facilitado5, .bt_pagamento-facilitado6, .bt_pagamento-facilitado7, .bt_pagamento-facilitado8
+ {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 1em;
+  
+ }
+
+ .lista__container
+{
+  padding-right: 50px;
+  color: red;
+}
+
+.lista__container li
+{
+
+  list-style-type: none;
+}
+
+.lista
+{
+  display: flex;
+}
+
+
